@@ -2,8 +2,8 @@
   "main": {
     "name":"Arcy Flores",
     "occupation":"Software Engineer",
-    "description":"Hi, I'm a software engineer with a focus on front-end and python technologies.",
-    "image":"",
+    "description":"I'm passionate about building great front-end user interfaces and experimenting with data science using Python.",
+    "image":"headshot.jpg",
     "bio":"I'm mostly focused on front-end and python technologies. I've worked with Django, Angular, and React.",
     "contactmessage":"Let's get in touch!",
     "email": "arcyiflores@gmail.com",
