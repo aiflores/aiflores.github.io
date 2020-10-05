@@ -3,34 +3,24 @@
     "name":"Arcy Flores",
     "occupation":"Software Engineer",
     "description":"I'm passionate about building great front-end user interfaces and experimenting with data science using Python.",
-    "image":"headshot.jpg",
-    "bio":"I'm mostly focused on front-end and python technologies. I've worked with Django, Angular, and React.",
+    "image":"new_headshot.jpg",
+    "bio":"Straight out of undergrad I thought I would give Real Estate a shot but struggled to find my footing and found myself spending more hours fiddling with my website than selling homes. I had created a simple static site on Weebly but configuring various widgets, styling the site, and adding images, had me remniscing on my MySpace days when I spent hours copying and pasting code snippets to customize my page. After some time I decided to put a hold on my 'Million Dollar Listing' career and ended up diving deeper into learning how to code. Eventually my research led me to enrolling in a Computer Science Master's program and after landing an internship with Cisco, where I had the opporunity to work on several exciting projects. Now I'm  ",
     "contactmessage":"Let's get in touch!",
     "email": "arcyiflores@gmail.com",
     "phone": "323-217-7389",
     "address":{
       "street":"3000 Scenic Club Drive",
-      "city":"Cary",
-      "state":"North Carolina",
-      "zip": "27519"
+      "city":"Murrieta",
+      "state":"California",
+      "zip": "92563"
     },
     "website": "http://arcyflores.com",
-    "resumedownload":"http://arcyflores.com",
+    "resumedownload":"ArcyFloresResume.docx",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"twitter",
         "url":"http://twitter.com/chicanacodes",
         "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
@@ -39,35 +29,30 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/arcyflor",
+        "url":"http://instagram.com/chicanacodes",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
         "url":"http://github.com/arcyflores",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"Northeastern University?",
+        "school":"Northeastern University",
         "degree":"M.S. Computer Science",
         "graduated":"December 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Took a range of classes including Object Oriented Programming, Data Mining, Web Development, and Database Management Systems."
       },
       {
         "school":"UCLA",
         "degree":"B.A. Psychology",
         "graduated":"June 2012",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Partook in various Latinx Organizations in which we showcased the Latinx experience in Los Angeles through student written plays, volunteered at the UCLA Ronald Reagan Medical Center, and focused on Social Psychology classes."
       }
     ],
     "work":[
@@ -75,89 +60,57 @@
         "company":"Fidelity Charitable",
         "title":"Full Stack Software Engineer",
         "years":"January 2020 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Working on an Agile team to add new features to existing applications as requsted by business to better serve our users using Angular 8, Spring, and Apache Struts."
       },
       {
         "company":"Cisco",
         "title":"Software Engineer Co-op",
         "years":"May 2019 - December 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Collaborated with Customer Experience Product Management team to develop a web application for two of the largest service providers in America to assist in modernizing their network, estimated 2 billion dollars in revenue."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Pytho",
-        "level":"60%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"HTML/CSS",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"ReactJs/Angular 8",
+        "level":"75%"
       },
       {
-        "name":"Angular",
-        "level":"70%"
+        "name":"Python",
+        "level":"65%"
       },
       {
-        "name":"SQL",
+        "name":"Java",
         "level":"60%"
+      },
+      {
+        "name": "Relational Databases",
+        "level":"75%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Chicana Codes",
+        "category":"My Coding Blog for sharing my expriences in tech.",
+        "image":"",
+        "url":"https://www.chicanacodes.com"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"resume-website.png",
+        "url":"http://www.arcyflores.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Arcy Flores must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "title":"Javascript Map",
+        "category":"An interractive JS map.",
+        "image":"js-election-map.png",
+        "url":""
       }
     ]
   }
